@@ -12,10 +12,11 @@
     justify-content: space-evenly;
 }
 
-.controls{
+.controls button{
     padding-left: 1rem ;
     padding-right: 1rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     padding-left: 1rem;
+     
 }
